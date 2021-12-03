@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Spektrum_Satellite
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Spektrum_Satellite KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+reset	        KEYWORD2
+update          KEYWORD2
+getHeader	KEYWORD2
+getChannel	KEYWORD2
+parseFrame      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
